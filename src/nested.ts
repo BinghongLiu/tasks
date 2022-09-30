@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { Answer } from "./interfaces/answer";
-=======
-import { Answer } from "./interfaces/answer"; 
->>>>>>> c85bcaa31fe5054a833ab8469318b03257b26666
 import { Question, QuestionType } from "./interfaces/question";
 import { makeBlankQuestion } from "./objects";
 import { duplicateQuestion } from "./objects";

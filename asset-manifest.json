@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tasks/static/css/main.b84728da.css",
+    "main.js": "/tasks/static/js/main.8367c72a.js",
+    "static/js/787.4ef7427d.chunk.js": "/tasks/static/js/787.4ef7427d.chunk.js",
+    "static/media/Oreo-burger.jpg": "/tasks/static/media/Oreo-burger.492db96df8b2292d5b8e.jpg",
+    "index.html": "/tasks/index.html",
+    "main.b84728da.css.map": "/tasks/static/css/main.b84728da.css.map",
+    "main.8367c72a.js.map": "/tasks/static/js/main.8367c72a.js.map",
+    "787.4ef7427d.chunk.js.map": "/tasks/static/js/787.4ef7427d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84728da.css",
+    "static/js/main.8367c72a.js"
+  ]
+}

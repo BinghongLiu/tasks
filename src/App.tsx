@@ -22,7 +22,6 @@ function App(): JSX.Element {
             <header className="App-header">
                 <h1>UD CISC275 with React Hooks and TypeScript</h1>
             </header>
-
             <hr></hr>
             <DoubleHalf></DoubleHalf>
             <CheckAnswer expectedAnswer="42"></CheckAnswer>

@@ -73,10 +73,11 @@ All files                    |   98.47 |    94.59 |     100 |   98.43 |
  src/interfaces              |       0 |        0 |       0 |       0 |                   
   answer.ts                  |       0 |        0 |       0 |       0 |                   
   question.ts                |       0 |        0 |       0 |       0 |                   
+  quiz.ts                    |       0 |        0 |       0 |       0 |                   
 -----------------------------|---------|----------|---------|---------|-------------------
 
 Test Suites: 20 passed, 20 total
 Tests:       134 passed, 134 total
 Snapshots:   0 total
-Time:        12.273 s
+Time:        11.576 s
 Ran all test suites.
